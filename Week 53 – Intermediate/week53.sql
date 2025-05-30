@@ -150,4 +150,3 @@ copy into week53_table_omake
 
 --テーブル確認
 select * from week53_table_omake;
-
